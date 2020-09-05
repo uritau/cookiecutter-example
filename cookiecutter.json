@@ -1,0 +1,9 @@
+{
+    "application": "application_name",
+    "environment": "environment_name",
+    "region": [
+        "eu-west-1",
+        "us-west-1",
+        "eu-north-1"
+    ]
+}

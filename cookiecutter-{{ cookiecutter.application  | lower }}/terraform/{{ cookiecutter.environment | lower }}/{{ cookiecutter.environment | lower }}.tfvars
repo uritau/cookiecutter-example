@@ -1,0 +1,1 @@
+environment = "{{ cookiecutter.environment | lower }}"
